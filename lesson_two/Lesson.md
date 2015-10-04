@@ -33,6 +33,7 @@ In this program you should accept user input via raw_input().  If you need more 
 Here are a few examples of raw_input:
 
 name = str(raw_input("Hello there, what's your name?")) 
+
 age = str(raw_input("How old are you?"))
 
 Use raw_input to get the users name and occupation.
@@ -51,4 +52,6 @@ Then create a new program called two.py
 This program should print out a greeting to the user, ask them how they are liking their new occupation and then recording their result.  This should be stored to another object called job_satisfaction.pickle
 
 
+Extra Credit:
 
+Capitalize a bunch of sentences, seperated by period and then join them into one string
